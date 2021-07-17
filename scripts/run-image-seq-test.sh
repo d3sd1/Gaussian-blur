@@ -1,0 +1,1 @@
+g++ ../image-seq.cpp -std=c++17 -O0  && ./a.out copy ../input ../output

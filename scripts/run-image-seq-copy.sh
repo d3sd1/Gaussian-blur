@@ -1,0 +1,1 @@
+g++ ../image-seq.cpp -std=c++17 -Wall -Wextra -Wno-deprecated -Werror -pedantic -pedantic-errors && ./a.out copy ../input ../output
